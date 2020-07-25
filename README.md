@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Yuenleung So, an extremely ordinary web frontend who is now working in a Internet company in Shenzhen, China.
+I'm Yuenleung So, an extremely ordinary web frontend who is now working in an Internet company in Shenzhen, China.
 
 However, I'm not good at playing GitHub.
 
