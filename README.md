@@ -44,7 +44,7 @@
 - born Chinese
 - LGBTQ+ Friendly
 - He/Him
-- MBTI: INFP-T, but MBTI cannot tell everything though :/
+- MBTI: [INFP-T](https://www.16personalities.com/infp-personality) (tested in 2019, 2021, 2023), but MBTI cannot tell everything though :/
 - Recovered from depression
 - Website: https://subilan.win (Chinese)
 - Broccoli, Carrot, Potato, Cucumber
