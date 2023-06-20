@@ -9,7 +9,7 @@
 - Vue 2/3
 - Python 3
 - Adobe Illustrator
-- Adobe Premier
+- Adobe Premiere
 
 #### Currently Working On
 - [Seatitanium](https://github.com/seatitanium) - A modded Minecraft server runned on my own.
