@@ -30,6 +30,8 @@
 
 #### Development Devices
 - Windows, macOS
+- IntelliJ IDEA
+- IntelliJ WebStorm
 - Visual Studio Code
 - Xcode
 - Travis CI, GitHub Actions, GitHub Pages
