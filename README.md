@@ -8,6 +8,7 @@
 - TypeScript
 - Vue 2/3
 - Python 3
+- Java 17
 - Adobe Illustrator
 - Adobe Premiere
 
@@ -22,7 +23,7 @@
 - Rust (*just planning*)
 
 #### Just-able-to-write-something-level Stuff
-- Java 11
+- Java 8+
 - C/C++
 - Powershell/Bash
 - nginx
