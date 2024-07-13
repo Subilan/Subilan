@@ -6,4 +6,4 @@ Chinese living in [Wuhan](https://en.wikipedia.org/wiki/Wuhan), [Hubei Province]
 - Public Email: <christophersubilan@gmail.com>
 - Active Programming Languages: Frontends (HTML, CSS, JS, TypeScript, Vue.js), Java, Go, Python.
 
-The cat in my avatar is called <ruby>蟹<rt>xiè</rt>黄<rt>huáng</rt></ruby> (meaning *crab roe*, a kind of sea food). She's living with <ruby>虾<rt>xiā</rt>球<rt>qiú</rt></ruby> (meaning *shrimp balls*, a dish popular in Hubei) in my home now. They are both [British Shorthair](https://en.wikipedia.org/wiki/British_Shorthair) but with different colors.
+The cat in my avatar is called <ruby>蟹<rt>xiè</rt>黄<rt>huáng</rt></ruby> (meaning *crab roe*, a kind of sea food). She's living with <ruby>虾<rt>xiā</rt>球<rt>qiú</rt></ruby> (meaning *shrimp balls*, a dish popular in Hubei made from shrimps with their bodies curled into ball-shape) in my home now. They are both [British Shorthair](https://en.wikipedia.org/wiki/British_Shorthair) but with different colors.
