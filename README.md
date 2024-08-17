@@ -1,4 +1,4 @@
-Chinese living in [Wuhan](https://en.wikipedia.org/wiki/Wuhan), [Hubei Province](https://en.wikipedia.org/wiki/Hubei). [Minecraft](https://minecraft.net) enthusiast. Learning Japanese (on [Duolingo](https://www.google.com/search?q=duolingo) and with some books). Yearn for a *friend*.
+Chinese living in [Wuhan](https://en.wikipedia.org/wiki/Wuhan), [Hubei Province](https://en.wikipedia.org/wiki/Hubei). [Minecraft](https://minecraft.net) enthusiast. Learning Japanese (on [Duolingo](https://www.google.com/search?q=duolingo) and with some books).
 
 - Language: English / Simplified Chinese / Traditional Chinese
 - Blog: <https://subilan.win> (Chinese)
