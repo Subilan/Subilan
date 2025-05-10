@@ -7,6 +7,8 @@ Chinese living in [Wuhan](https://en.wikipedia.org/wiki/Wuhan), [Hubei Province]
 - Twitter / X: [@Subilan1234](https://x.com/Subilan1234) (in Chinese)
 - Public Email: <christophersubilan@gmail.com>
 
+Currenly working on [MonologueReloaded](https://github.com/Subilan/MonologueReloaded) (previously [Monologue](https://github.com/Subilan/Monologue)).
+
 In my free time, I enjoy working on some of my passion projects. You can check some of them [here](./PROJECTS.md).
 
 The cat in my avatar is called <ruby>蟹<rt>xiè</rt>黄<rt>huáng</rt></ruby> (meaning *crab roe*, a kind of sea food). She's living with <ruby>虾<rt>xiā</rt>球<rt>qiú</rt></ruby> (meaning *shrimp balls*, a dish popular in Hubei made from shrimps with their bodies curled into ball-shape) in my home now. They are both [British Shorthair](https://en.wikipedia.org/wiki/British_Shorthair) but with different colors.
