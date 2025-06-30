@@ -11,4 +11,4 @@ Currenly working on [MonologueReloaded](https://github.com/Subilan/MonologueRelo
 
 In my free time, I enjoy working on some of my passion projects. You can check some of them [here](./PROJECTS.md).
 
-The cat in my avatar is called <ruby>蟹<rt>xiè</rt>黄<rt>huáng</rt></ruby> (meaning *crab roe*, a kind of sea food). She's living with <ruby>虾<rt>xiā</rt>球<rt>qiú</rt></ruby> (meaning *shrimp balls*, a dish popular in Hubei made from shrimps with their bodies curled into ball-shape) in my home now. They are both [British Shorthair](https://en.wikipedia.org/wiki/British_Shorthair) but with different colors.
+The cat in my avatar is called <ruby>蟹<rt>xiè</rt>黄<rt>huáng</rt></ruby>. She's living with <ruby>虾<rt>xiā</rt>球<rt>qiú</rt></ruby> in my home now. They are both [British Shorthair](https://en.wikipedia.org/wiki/British_Shorthair) but with different colors.
