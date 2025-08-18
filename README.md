@@ -9,7 +9,7 @@ Chinese living in [Wuhan](https://en.wikipedia.org/wiki/Wuhan), [Hubei Province]
 - Twitter / X: [@Subilan1234](https://x.com/Subilan1234) (in Chinese)
 - Public Email: <christophersubilan@gmail.com>
 
-Currently playing Minecraft 1.21.1 with mods, working on a private project and learning some conception about cloud native computing.
+Currently playing Minecraft 1.21.1 with mods, working on a private project and learning some concept about cloud native computing.
 
 I enjoy working on some of my passion projects in my spare time. You can check some of them [here](./PROJECTS.md).
 
