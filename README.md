@@ -9,8 +9,8 @@ Chinese living in [Wuhan](https://en.wikipedia.org/wiki/Wuhan), [Hubei Province]
 - Twitter / X: [@Subilan1234](https://x.com/Subilan1234) (in Chinese)
 - Public Email: <christophersubilan@gmail.com>
 
-Currently playing Minecraft 1.21.1 with mods, and working on two private projects.
+Currently playing Minecraft 1.21.1 with mods, working on a private project and learning some conception about cloud native computing.
 
-In my free time, I enjoy working on some of my passion projects. You can check some of them [here](./PROJECTS.md).
+I enjoy working on some of my passion projects in my spare time. You can check some of them [here](./PROJECTS.md).
 
 The cat in my avatar is called <ruby>蟹<rt>xiè</rt>黄<rt>huáng</rt></ruby>. She's living with <ruby>虾<rt>xiā</rt>球<rt>qiú</rt></ruby> in my home now. They are both [British Shorthair](https://en.wikipedia.org/wiki/British_Shorthair) but with different colors.
