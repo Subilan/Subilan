@@ -14,3 +14,5 @@ Currently playing Minecraft 1.21.1 with mods, working on a private project and l
 I enjoy working on some of my passion projects in my spare time. You can check some of them [here](./PROJECTS.md).
 
 The cat in my avatar is called <ruby>蟹<rt>xiè</rt>黄<rt>huáng</rt></ruby>. She's living with <ruby>虾<rt>xiā</rt>球<rt>qiú</rt></ruby> in my home now. They are both [British Shorthair](https://en.wikipedia.org/wiki/British_Shorthair) but with different colors.
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subilan&hide=html,css,php,scss&layout=compact)
