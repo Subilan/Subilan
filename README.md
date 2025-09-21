@@ -9,12 +9,14 @@ Chinese living in [Wuhan](https://en.wikipedia.org/wiki/Wuhan), [Hubei Province]
 - Twitter / X: [@Subilan1234](https://x.com/Subilan1234) (in Chinese)
 - Public Email: <christophersubilan@gmail.com>
 
-Currently playing Minecraft 1.21.1 with mods, working on a private project and learning some concept about cloud native computing.
-
 I enjoy working on some of my passion projects in my spare time. You can check some of them [here](./PROJECTS.md).
 
 The cat in my avatar is called <ruby>蟹<rt>xiè</rt>黄<rt>huáng</rt></ruby>. She's living with <ruby>虾<rt>xiā</rt>球<rt>qiú</rt></ruby> in my home now. They are both [British Shorthair](https://en.wikipedia.org/wiki/British_Shorthair) but with different colors.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subilan&hide=html,css,php,scss&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subilan&hide=html,css,php,scss&layout=compact&theme=transparent)
 
 <h6>Top Languages does not indicate the user's skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It is a new feature of github-readme-stats. <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card" target="_blank">Origin</a></h6>
+
+Currently learning some concept about cloud native computing and working on some private project and [MonologueReloaded](https://github.com/Subilan/MonologueReloaded).
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Subilan&repo=MonologueReloaded&theme=transparent)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Subilan/MonologueReloaded))
