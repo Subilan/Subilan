@@ -1,7 +1,5 @@
 > Work hard, stay happy, learn well, be kind.
 
-**My Codeberg profile: https://codeberg.org/Subilan**
-
 Chinese living in [Wuhan](https://en.wikipedia.org/wiki/Wuhan), [Hubei Province](https://en.wikipedia.org/wiki/Hubei), China. [Minecraft](https://minecraft.net) enthusiast for 10+ years. Graphic design hobbyist.
 
 - Language: Chinese / English, learning Japanese on [Duolingo](https://www.google.com/search?q=duolingo) and with some books.
