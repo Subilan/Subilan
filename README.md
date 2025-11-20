@@ -14,7 +14,3 @@ The cat in my avatar is called <ruby>蟹<rt>xiè</rt>黄<rt>huáng</rt></ruby>. 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subilan&hide=html,css,php,scss&layout=compact&theme=transparent)
 
 <h6>Top Languages does not indicate the user's skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It is a new feature of github-readme-stats. <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card" target="_blank">Origin</a></h6>
-
-Currently learning some concept about cloud native computing and working on some private project and [MonologueReloaded](https://github.com/Subilan/MonologueReloaded).
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Subilan&repo=MonologueReloaded&theme=transparent)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Subilan/MonologueReloaded))
