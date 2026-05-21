@@ -17,4 +17,4 @@ Nice to meet you here! `(*^▽^*)`
 - Yet Another Human Living on the Planet Earth.
 - Adopting AI powered coding. Using Claude Code most of the time.
 - Focusing on software engineering, especially on the (dying) web development.
-- Somewhat intereted in *languages*. Got 614 in CET-4 and 633 in CET-6 (Please ignore this if you're a native English speaker) during my bachelor studies. Learning Japanese at a leisurely pace on Duolingo.
+- Somewhat interested in *languages*. Got 614 in CET-4 and 633 in CET-6 (Please ignore this if you're a native English speaker) during my bachelor studies. Learning Japanese at a leisurely pace on Duolingo.
