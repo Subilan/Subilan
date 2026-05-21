@@ -3,6 +3,6 @@
 - Email: 1843917482@qq.com
 
 Things:
-- Adapting to AI coding thanks to the release of DeepSeek v4 Pro in April, but definitely not vibe-favourable.
+- Adopting AI powered coding, using DeepSeek v4 Pro + Claude Code most of the time for cost-effectiveness.
 - Focusing on software engineering, especially on the (dying) web development.
 - Learning Japanese at a leisurely pace on Duolingo.
