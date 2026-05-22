@@ -9,9 +9,9 @@ Nice to meet you here! `(*^▽^*)`
 - Plan to learn: Rust, Swift
 - Tech stacks: Vite, Vue 3, React Router, Gin, GORM
 
-`things:`
-- [go-aliyunmc](https://github.com/Subilan/go-aliyunmc)
+`recently working on:`
 - [ecd](https://github.com/Subilan/ecd)
+- [go-aliyunmc](https://github.com/Subilan/go-aliyunmc)
 
 `about:`
 - Yet Another Human Living on the Planet Earth.
