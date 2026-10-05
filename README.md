@@ -9,10 +9,6 @@ Nice to meet you!
 - Plan to learn: Rust, Swift
 - Tech stacks: Vite, Vue 3, React Router, Gin, GORM
 
-`recently working on:`
-- private projects and company stuff
-- [go-aliyunmc](https://github.com/Subilan/go-aliyunmc)
-
 `about:`
 - Using Pi Coding Agent most of the time.
 - Focusing on web development.
