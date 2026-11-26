@@ -1,14 +1,6 @@
-> Work hard, stay happy, learn well, be kind.
+A curiosity-driven coder. Probably ADHD.
 
-Nice to meet you!
-
-`main:`
-- Blog (in Chinese): https://hskl.me
+- Blog: https://hskl.me
 - Email: 1843917482@qq.com
-- Everyday programming languages: Go, TypeScript
-- Plan to learn: Rust, Swift
-- Tech stacks: Vite, Vue 3, React Router, Gin, GORM
-
-`about:`
+- TypeScript, Golang, Minecraft.
 - Using Claude Code, Codex and Pi with cheap models.
-- Focusing on web development.
