@@ -10,5 +10,5 @@ Nice to meet you!
 - Tech stacks: Vite, Vue 3, React Router, Gin, GORM
 
 `about:`
-- Using Pi Coding Agent most of the time.
+- Using Claude Code, Codex and Pi with cheap models.
 - Focusing on web development.
