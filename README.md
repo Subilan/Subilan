@@ -3,7 +3,7 @@
 Nice to meet you!
 
 `main:`
-- Blog (in Chinese): https://subilan.win
+- Blog (in Chinese): https://hskl.me
 - Email: 1843917482@qq.com
 - Everyday programming languages: Go, TypeScript
 - Plan to learn: Rust, Swift
